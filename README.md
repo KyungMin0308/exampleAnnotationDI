@@ -7,7 +7,6 @@
 ### **2. Environment**
 * **Eclispe**
   + Maven Project(Create a single project(skip archetype selection))
-* **Tomcat 9.0**
 
 
 ### **3. Packages**
